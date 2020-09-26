@@ -13,9 +13,7 @@ But if a writer and some other process access the database simultaneously, chaos
 
 To ensure that these difficulties do not arise, we require that the writers have exclusive access to the shared database while writing to the database. This synchronisation problem is referred to as the readers-writers problem.
 
-## Compiling the Program
-
-## Compile using this command on Ubuntu 18.04:
+## Compiling the program:
 gcc miniproject.c -pthread
 
 ## Running the program :
