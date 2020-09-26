@@ -1,4 +1,5 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/134dcec495af4725b588db788a8df52c)](https://www.codacy.com/manual/99002438/Linux-and-OS-Programming/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002438/Linux-and-OS-Programming&amp;utm_campaign=Badge_Grade)![cppcheck-action](https://github.com/99002438/Linux-and-OS-Programming/workflows/cppcheck-action/badge.svg?branch=master)
+![cppcheck-action](https://github.com/99002438/Linux-and-OS-Programming/workflows/cppcheck-action/badge.svg?branch=master)
+![C/C++ CI](https://github.com/99002438/Linux-and-OS-Programming/workflows/C/C++%20CI/badge.svg?branch=master)
 
 ## Mini -Project
 Reader- Writer Problem
